@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+You need to load the global parameters in the path of the system. And use any fancy encrpting service to hide its values. God luck and may the force be with you.
