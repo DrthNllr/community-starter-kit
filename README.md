@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+There is no purpose of this repo but learning.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Learn something
+- Introduces to organized methology to achieve programing goals
+- Enables sharing with coworkers
+- Lets enjoy the life!!!!
 
 ## Getting started
 
